@@ -18,6 +18,6 @@ This is not time travel. This is time leverage.
 Profit Jump begins now.
 
 
-Episodes
-[Day 0](#2026-02-15-profit-jump-1)
-[Day 1](#2026-02-15-profit-jump-2)
+Episodes:<br>
+[Day 0](/2026-02-15-profit-jump-1)<br>
+[Day 1](/2026-02-15-profit-jump-2)<br>

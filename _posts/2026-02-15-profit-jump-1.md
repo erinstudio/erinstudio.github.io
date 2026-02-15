@@ -190,5 +190,3 @@ Aria Lin blinked at the note.
 And for the first time in years…
 
 She grinned.
-
-[➡️ Start the next chapter](#2026-02-15-profit-jump-1)

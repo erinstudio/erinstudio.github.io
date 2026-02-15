@@ -128,6 +128,3 @@ Somewhere outside, a scooter zipped down the street. The world was still turning
 Aria closed her eyes and whispered,
 
 "Day one done. We go tomorrow."
-
-[← Previous Chapter](#2026-02-15-profit-jump-1)
-[Next Chapter →](#2026-02-15-profit-jump-3)
