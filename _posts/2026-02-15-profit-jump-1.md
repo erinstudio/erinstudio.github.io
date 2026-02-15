@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Profit Jump Chapter 1
-subtitle: Day 0\:\ Game Over, Try Again
+subtitle: Day 0 Game Over, Try Again
 ---
 
 Some day, 2025
@@ -191,4 +191,4 @@ And for the first time in years…
 
 She grinned.
 
-
+[➡️ Start the next chapter](#2026-02-15-profit-jump-1)

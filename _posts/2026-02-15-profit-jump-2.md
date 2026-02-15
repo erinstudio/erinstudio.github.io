@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Profit Jump Chapter 2
-subtitle: Day 1\:\ Inventory
+subtitle: Day 1 Inventory
 ---
+
 Day 1: August 18, 2015
 The sun had shifted, casting a harsh yellow stripe across the tatami.
-
 Aria Lin sat cross-legged on the floor, surrounded by everything she owned in this timeline. It wasn't much. The iPhone was warm from overuse; the flip phone lay useless beside it, a relic even for 2015. The stock brokerage form looked freshly printed, but dusty around the edges, like someone had printed it weeks ago then forgotten it on the table. Beside them: exactly ¥20,000 in crisp bills.
 
 She checked the iPhone again.
@@ -129,3 +129,5 @@ Aria closed her eyes and whispered,
 
 "Day one done. We go tomorrow."
 
+[← Previous Chapter](#2026-02-15-profit-jump-1)
+[Next Chapter →](#2026-02-15-profit-jump-3)
