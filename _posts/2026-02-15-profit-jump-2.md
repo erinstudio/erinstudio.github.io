@@ -2,6 +2,7 @@
 layout: post
 title: Profit Jump Chapter 2
 subtitle: Day 1 Inventory
+tags: [Profit Jump,novel]
 ---
 
 Day 1: August 18, 2015

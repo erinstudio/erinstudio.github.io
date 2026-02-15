@@ -2,6 +2,7 @@
 layout: post
 title: Profit Jump Chapter 5
 subtitle: Day 4 Damage Control
+tags: [Profit Jump,novel]
 ---
 Day 4, August 21, 2015
 

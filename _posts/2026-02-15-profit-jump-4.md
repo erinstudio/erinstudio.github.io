@@ -2,6 +2,7 @@
 layout: post
 title: Profit Jump Chapter 4
 subtitle: Day 3 The First Cut
+tags: [Profit Jump,novel]
 ---
 Day 3, August 20, 2015
 

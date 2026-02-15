@@ -2,8 +2,10 @@
 layout: post
 title: Profit Jump Chapter 3
 subtitle: Day 2 Paperwork
+tags: [Profit Jump,novel]
 ---
 Day 2, August 19, 2015
+
 In her old life, she'd opened her first account with a no-frills brokerage, one of those discount shops that didn't care if your seal was crooked or if your residence certificate was a few weeks out of date.
 
 So she went there.
