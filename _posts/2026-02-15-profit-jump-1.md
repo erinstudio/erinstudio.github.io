@@ -6,6 +6,7 @@ subtitle: Day 0 Game Over, Try Again
 
 Some day, 2025
 2:48 a.m.
+
 In a crumbling 1K apartment tucked deep in Shinjuku 5-chome, the kind of place where the ceiling leaked, the walls peeled, and rent still cost her half a life, Aria Lin sat curled on a frayed yoga mat like a housecat gone feral.
 
 Her secondhand ThinkPad buzzed weakly on her knees, the screen awash in red. Candlesticks bled downward. Bloodbath.

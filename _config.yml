@@ -21,9 +21,8 @@ author: Erin Chase
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Novels:
+    - Profit Jump: "/2026-02-14-profit-jump-index"
  # Author's home: "https://deanattali.com"
 
 ################
