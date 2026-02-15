@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Profit Jump Chapter 8
-subtitle: Day 5 The Drop
+subtitle: Day 7 The Drop
 tags: [Profit Jump,novel]
 ---
 
 August 24, 2015.
 
-###Opening balance: ¥415,000
+### Opening balance: ¥415,000
 
-###Final balance: ¥1,010,400 Change: +¥595,400 in one trade.
+### Final balance: ¥1,010,400 Change: +¥595,400 in one trade.
+
 
 8:17 a.m. JST
 
