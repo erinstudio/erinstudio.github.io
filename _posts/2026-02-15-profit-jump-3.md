@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Profit Jump Chapter 3
-subtitle: Day 2 Paperwork
+title: Profit Jump Day 2 
+subtitle: Paperwork
 tags: [Profit Jump,novel]
 ---
 Day 2, August 19, 2015

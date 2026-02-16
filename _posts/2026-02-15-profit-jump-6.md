@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Profit Jump Chapter 6
-subtitle: Day 5 Just Another Saturday
+title: Profit Jump Day 5 
+subtitle: Just Another Saturday
 tags: [Profit Jump,novel]
 ---
 Day 5, August 22, 2015

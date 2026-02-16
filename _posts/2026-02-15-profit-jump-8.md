@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Profit Jump Chapter 8
-subtitle: Day 7 The Drop
+title: Profit Jump Day 7
+subtitle: The Drop
 tags: [Profit Jump,novel]
 ---
 

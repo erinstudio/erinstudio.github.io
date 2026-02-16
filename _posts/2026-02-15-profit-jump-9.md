@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Profit Jump Chapter 9
-subtitle: Day 8 The Only One Laughing in a Crash
+title: Profit Jump Day 8
+subtitle:  The Only One Laughing in a Crash
 tags: [Profit Jump,novel]
 ---
 

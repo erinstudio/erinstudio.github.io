@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Profit Jump Chapter 7
-subtitle: Day 6 The Air Before the Collapse
+title: Profit Jump Day 6
+subtitle:  The Air Before the Collapse
 tags: [Profit Jump,novel]
 --- 
 Day 6, August 23, 2015 – Sunday

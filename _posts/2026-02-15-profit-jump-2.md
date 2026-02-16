@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Profit Jump Chapter 2
-subtitle: Day 1 Inventory
+title: Profit Jump Day 1 
+subtitle: Inventory
 tags: [Profit Jump,novel]
 ---
 

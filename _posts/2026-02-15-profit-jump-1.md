@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Profit Jump Chapter 1
-subtitle: Day 0 Game Over, Try Again
+title: Profit Jump Day 0
+subtitle: Game Over, Try Again
 tags: [Profit Jump,novel]
 ---
 
