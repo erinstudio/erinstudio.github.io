@@ -4,6 +4,12 @@ title: Profit Jump Day 0
 subtitle: Game Over, Try Again
 tags: [Profit Jump,novel]
 ---
+[Click here to go to the table of contents](2026-02-14-profit-jump-index.md)
+
+[Start reading from Chapter 1](2026-02-15-profit-jump-1.md)
+
+
+
 
 Some day, 2025
 2:48 a.m.

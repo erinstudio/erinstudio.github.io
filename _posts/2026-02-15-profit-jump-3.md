@@ -4,6 +4,11 @@ title: Profit Jump Day 2
 subtitle: Paperwork
 tags: [Profit Jump,novel]
 ---
+[Click here to go to the table of contents](2026-02-14-profit-jump-index.md)
+
+[Start reading from Chapter 1](2026-02-15-profit-jump-1.md)
+
+
 Day 2, August 19, 2015
 
 In her old life, she'd opened her first account with a no-frills brokerage, one of those discount shops that didn't care if your seal was crooked or if your residence certificate was a few weeks out of date.

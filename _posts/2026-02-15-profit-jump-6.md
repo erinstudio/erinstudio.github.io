@@ -4,6 +4,11 @@ title: Profit Jump Day 5
 subtitle: Just Another Saturday
 tags: [Profit Jump,novel]
 ---
+[Click here to go to the table of contents](2026-02-14-profit-jump-index.md)
+
+[Start reading from Chapter 1](2026-02-15-profit-jump-1.md)
+
+
 Day 5, August 22, 2015
 
 Aria sat quietly on the upward escalator of the subway station. Sunlight fell across the back of her hand, turning it a faint red. She stared at the patch of skin for five seconds without moving.

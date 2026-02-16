@@ -3,7 +3,12 @@ layout: post
 title: Profit Jump Day 6
 subtitle:  The Air Before the Collapse
 tags: [Profit Jump,novel]
---- 
+---
+[Click here to go to the table of contents](2026-02-14-profit-jump-index.md)
+
+[Start reading from Chapter 1](2026-02-15-profit-jump-1.md)
+
+ 
 Day 6, August 23, 2015 – Sunday
 
 Aria didn't go out that day. She didn't need to. The world was already coming to her, one bloodied candle at a time.

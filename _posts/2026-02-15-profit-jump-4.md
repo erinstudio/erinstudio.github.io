@@ -4,6 +4,11 @@ title: Profit Jump Day 3
 subtitle: The First Cut
 tags: [Profit Jump,novel]
 ---
+[Click here to go to the table of contents](2026-02-14-profit-jump-index.md)
+
+[Start reading from Chapter 1](2026-02-15-profit-jump-1.md)
+
+
 Day 3, August 20, 2015
 
 Her brokerage account was live.
